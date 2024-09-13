@@ -1,8 +1,8 @@
 # Identificação
 
-* Nome: 
-* Email (@ccc): 
-* Matrícula: 
+* Nome: Arthur de Sousa Macedo Farias
+* Email (@ccc): arthur.sousa.macedo.farias@ccc.ufcg.edu.br
+* Matrícula: 122210160
 
 # Roteiro: Fila de Prioridade
 
