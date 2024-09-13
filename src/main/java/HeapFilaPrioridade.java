@@ -7,11 +7,14 @@ public class HeapFilaPrioridade implements FilaPrioridade {
 	}
 
 	// adicionar o pair no heap
-	public void add(String elemento, int prioridade) {}
+	public void add(String elemento, int prioridade) {
+		this.heap.add(elemento, prioridade);
+	}
 
 	// recuperar a raiz
 	public String removeNext() {
-		return "";
+		String raiz = this.heap.remove().getElemento();
+		return raiz;
 	}
 
 }
